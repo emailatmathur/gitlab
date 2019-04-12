@@ -1,3 +1,0 @@
-This is second checkout file
-This is second line
-this is 3rd line
