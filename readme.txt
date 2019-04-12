@@ -1,1 +1,3 @@
 XYZ is new file...
+ABC is new contents
+dfg is second content
